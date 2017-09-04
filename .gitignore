@@ -21,7 +21,7 @@ nosetests.xml
 .project
 .pydevproject
 *.iml
-.idea
+.idea/*
 .settings
 .DS_Store
 .classpath
