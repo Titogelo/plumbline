@@ -156,7 +156,7 @@ public class WordCount {
      * King Lear. Set this option to choose a different input file or glob.
      */
     @Description("Path of the file to read from")
-    @Default.String("gs://apache-beam-samples/shakespeare/kinglear.txt")
+    @Default.String("gs://dojo-ibl/test-pipeline-plumbers/41977646.8972.json")
     String getInputFile();
     void setInputFile(String value);
 
